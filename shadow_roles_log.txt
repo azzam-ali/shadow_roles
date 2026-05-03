@@ -1,0 +1,76 @@
+[2026-04-26 14:20:43] === NEW GAME === Players: 4
+[2026-04-28 22:42:15] === NEW GAME === Players: 6 | Tasks: 15
+[2026-04-28 22:46:34] Round 1: ismail (Detective) voted off.
+[2026-04-28 22:46:38] Round 1 complete.
+[2026-04-28 22:48:22] Round 2: azzam (Civilian) voted off.
+[2026-04-28 22:48:22] Round 2 complete.
+[2026-04-28 22:49:43] Round 3: maria (Civilian) voted off.
+[2026-04-28 22:49:43] Round 3 complete.
+[2026-04-28 22:50:24] Round 4: abaan (Imposter) voted off.
+[2026-04-28 22:50:25] GAME OVER: Civilians win!
+[2026-04-30 02:31:21] === NEW GAME === Players: 4 | Tasks: 15
+[2026-04-30 02:34:11] ismail killed by Imposter in round 1
+[2026-04-30 02:34:29] Round 1: abaan (Imposter) voted off.
+[2026-04-30 02:34:31] GAME OVER: Crew wins by vote!
+[2026-05-02 22:12:29] === NEW GAME === Players: 8 | Tasks: 25
+[2026-05-02 22:30:53] Round 1: Tie vote, no elimination.
+[2026-05-02 22:30:53] Round 1 complete.
+[2026-05-02 22:32:46] === NEW GAME === Players: 3 | Tasks: 15
+[2026-05-02 22:34:01] Round 1: Tie vote, no elimination.
+[2026-05-02 22:34:03] Round 1 complete.
+[2026-05-02 22:40:05] Round 2: Tie vote, no elimination.
+[2026-05-02 22:40:08] Round 2 complete.
+[2026-05-02 22:40:36] === NEW GAME === Players: 3 | Tasks: 15
+[2026-05-02 22:42:08] Round 1: Tie vote, no elimination.
+[2026-05-02 22:42:08] Round 1 complete.
+[2026-05-02 22:42:08] Round 2: Tie vote, no elimination.
+[2026-05-02 22:42:08] Round 2 complete.
+[2026-05-02 22:42:09] Round 3: Tie vote, no elimination.
+[2026-05-02 22:42:09] Round 3 complete.
+[2026-05-02 22:42:10] Round 4: Tie vote, no elimination.
+[2026-05-02 22:42:10] Round 4 complete.
+[2026-05-02 22:42:10] Round 5: Tie vote, no elimination.
+[2026-05-02 22:42:10] Round 5 complete.
+[2026-05-02 22:42:11] Round 6: Tie vote, no elimination.
+[2026-05-02 22:42:11] Round 6 complete.
+[2026-05-02 22:42:12] Round 7: Tie vote, no elimination.
+[2026-05-02 22:42:12] Round 7 complete.
+[2026-05-02 22:42:13] Round 8: Tie vote, no elimination.
+[2026-05-02 22:42:13] Round 8 complete.
+[2026-05-02 22:42:32] === NEW GAME === Players: 4 | Tasks: 15
+[2026-05-02 22:42:46] Round 1: Tie vote, no elimination.
+[2026-05-02 22:42:46] Round 1 complete.
+[2026-05-02 22:42:46] Round 2: Tie vote, no elimination.
+[2026-05-02 22:42:46] Round 2 complete.
+[2026-05-02 22:44:34] abbasi killed by Imposter in round 3
+[2026-05-02 22:45:07] Round 3: Tie vote, no elimination.
+[2026-05-02 22:45:09] Round 3 complete.
+[2026-05-02 22:46:01] Round 4: ismail (Imposter) voted off.
+[2026-05-02 22:46:03] GAME OVER: Crew wins by vote!
+[2026-05-02 23:33:13] === NEW GAME === Players: 4 | Tasks: 15
+[2026-05-02 23:33:51] azzam killed by Imposter in round 1
+[2026-05-02 23:34:02] Round 1: Tie vote, no elimination.
+[2026-05-02 23:34:03] Round 1 complete.
+[2026-05-03 16:04:05] azzam killed by Imposter in round 2
+[2026-05-03 16:04:05] Round 2: Tie vote, no elimination.
+[2026-05-03 16:04:05] Round 2 complete.
+[2026-05-03 16:04:05] Round 3: Tie vote, no elimination.
+[2026-05-03 16:04:05] Round 3 complete.
+[2026-05-03 16:04:06] Round 4: Tie vote, no elimination.
+[2026-05-03 16:04:06] Round 4 complete.
+[2026-05-03 16:04:06] Round 5: Tie vote, no elimination.
+[2026-05-03 16:04:06] Round 5 complete.
+[2026-05-03 16:04:07] Round 6: Tie vote, no elimination.
+[2026-05-03 16:04:07] Round 6 complete.
+[2026-05-03 16:04:07] Round 7: Tie vote, no elimination.
+[2026-05-03 16:04:07] Round 7 complete.
+[2026-05-03 16:04:08] Round 8: Tie vote, no elimination.
+[2026-05-03 16:04:08] Round 8 complete.
+[2026-05-03 16:04:08] Round 9: Tie vote, no elimination.
+[2026-05-03 16:04:08] Round 9 complete.
+[2026-05-03 16:04:09] Round 10: Tie vote, no elimination.
+[2026-05-03 16:04:09] Round 10 complete.
+[2026-05-03 16:25:52] === NEW GAME === Players: 4 | Tasks: 15
+[2026-05-03 16:27:46] abaan killed by Imposter in round 1
+[2026-05-03 16:28:14] Round 1: azzam (Civilian) voted off.
+[2026-05-03 16:28:15] GAME OVER: Imposter wins!
