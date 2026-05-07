@@ -1,0 +1,6 @@
+ROUND=1
+PLAYER|1|Player1|Civilian|0
+PLAYER|2|Player2|Detective|1
+PLAYER|3|Player3|Civilian|1
+PLAYER|4|Player4|Imposter|1
+PLAYER|5|Player5|Civilian|1
